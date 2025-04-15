@@ -26,7 +26,7 @@ I enjoy exploring the intersection of technology and creativity.
 - HTML
 - CSS
 - Figma
-- Adobe (InDesing, Illustrator)
+- Adobe (InDesign, Illustrator)
 - Rhine 3D
 - SolidWorks
 - 3D Printing (SLA, Formlabs)
